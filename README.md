@@ -1,4 +1,4 @@
-# My C# Project
+# Simple C# Project
 
 This is a simple project written in C# to understand extension methods and classes.
 
